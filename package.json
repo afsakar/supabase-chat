@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.2.3",
+    "@vercel/analytics": "^0.1.6",
     "@vueuse/core": "^9.10.0",
     "pinia": "^2.0.28",
     "vue": "^3.2.45",
