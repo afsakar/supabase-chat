@@ -53,7 +53,7 @@ Change your Site URL and Redirect URL `Authentication > URL Configuration` secti
 
 This project is setup to deploy to [Vercel](https://vercel.com/). You can deploy it to Vercel by clicking the button below.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fafsakar%2Fsupabase-chat)
 
 ## Recommended IDE Setup
 
